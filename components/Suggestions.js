@@ -26,7 +26,7 @@ function Suggestions() {
                     <div key={profile.id} className="flex items-center justify-between mt-3"> 
                         <img 
                             className="w-10 h-10 rounded-full border p-[2px]"
-                            src="https://cdn.discordapp.com/avatars/214040003976626176/e82531aa5bd9ce64801138bf500155f8.webp" 
+                            src="https://cdn.discordapp.com/avatars/214040003976626176/1bf63987f46f767483a7e2203f993783.webp?size=2048" 
                             alt="" 
                         />
                         <div className="flex-1 ml-4">

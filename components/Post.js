@@ -94,7 +94,6 @@ function Post({id, username, userImg, img, caption}) {
                     ) : (
                         <HeartIcon onClick={likePost} className='btn'/>
                     )}
-                    <HeartIcon onClick={likePost} className='btn'/>
                     <ChatIcon className='btn'/>
                     <PaperAirplaneIcon className='btn'/>
                 </div>
